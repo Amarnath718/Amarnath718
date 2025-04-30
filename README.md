@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amarnath B</h1>
 <h3 align="center">An aspiring ECE student from India, interested in coding, electronics and tech world.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zoho.com%2Fblog%2Fcliq%2Fwhy-this-is-the-right-time-to-be-a-tech-geek.html&psig=AOvVaw39iBWOx5L_K3Hb5CtFiwT_&ust=1746093826152000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODigsXA_4wDFQAAAAAdAAAAABAR">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarnath718&label=Profile%20views&color=0e75b6&style=flat" alt="Amarnath718" /> </p>
 
