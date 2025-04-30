@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarnath B</h1>
-<h3 align="center">An aspiring ECE student from India, interested in coding, electronics and tech world.</h3>
+<h3 align="center">An aspiring ECE student from India, interested in coding, electronics and tech world.</h3> <br><br>
+
+<img align="right" alt="Coding" width="400" src="https://blog.zoho.com/sites/zblogs/images/cliq/new-converted-2019-08.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarnath718&label=Profile%20views&color=0e75b6&style=flat" alt="Amarnath718" /> </p>
 
