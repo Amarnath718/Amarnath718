@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amarnath B</h1>
-<h3 align="center">An aspiring ECE student from India, interested in coding, electronics and tech world.</h3> <br><br>
+<h3 align="center">An aspiring ECE student from India, interested in coding, electronics and tech world.</h3> <br>
 
 <img align="right" alt="Coding" width="400" src="https://blog.zoho.com/sites/zblogs/images/cliq/new-converted-2019-08.gif"> 
 
