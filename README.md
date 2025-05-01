@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarnath718&label=Profile%20views&color=0e75b6&style=flat" alt="Amarnath718" /> </p>
 
+- 🔭 I'm currently working on **Simple CPU Stats meter using OLED display**
+
 - 🌱 I’m currently learning **C++, Python,Verilog, PCB Design (KiCad), IOT**
 
 - 💬 Ask me about **Embedded systems, IOT sensors/actuators.**
