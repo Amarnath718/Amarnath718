@@ -7,7 +7,9 @@
 
 - 🔭 I'm currently working on **Simple CPU Stats meter using OLED display**
 
-- 🌱 I’m currently learning **C++, Python,Verilog, PCB Design (KiCad), IOT**
+- 🌱 I’m currently learning **IOT, Embedded systems**
+
+- 📖 Looking forward for learning **Verilog HDL, Advanced Embedded systems, DSA**
 
 - 💬 Ask me about **Embedded systems, IOT sensors/actuators.**
 
