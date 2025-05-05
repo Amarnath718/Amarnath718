@@ -11,7 +11,7 @@
 
 - 📖 Looking forward for learning **Verilog HDL, Advanced Embedded systems, DSA**
 
-- 💬 Ask me about **Embedded systems, IOT sensors/actuators.**
+- 💬 Ask me about **Embedded systems, IOT sensors/actuators, Movies, storytelling...**
 
 - ⚡ Fun fact **Pretty much nothing I guess 😅**
 
